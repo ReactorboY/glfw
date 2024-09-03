@@ -14,7 +14,6 @@ project "GLFW"
 		"src/init.c",
 		"src/input.c",
 		"src/monitor.c",
-		"src/vulkan.c",
 		"src/window.c"
 	}
 	filter "system:linux"
